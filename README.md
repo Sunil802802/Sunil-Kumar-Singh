@@ -1,54 +1,63 @@
-Sunil Kumar Singh
+# Hi there, I'm Sunil Kumar Singh 👋
 
-Full-Stack Developer & Associate Project Manager
+**Full-Stack Developer & Associate Project Manager**  
 
-Website: sunilportfolio.io
+[Website](#) | [LinkedIn](https://www.linkedin.com/in/sunil-kumar-singh-041528a) | [Email](mailto:sunil802802@gmail.com)
 
-Hello there! 👋🤓
+---
 
-I'm Sunil, a passionate software professional from India with over 15+ years of experience building and leading technology solutions. My journey in the tech world has been an exciting adventure, exploring new frameworks, solving complex challenges, and mentoring teams along the way.
+## About Me
+I'm a passionate software professional from India with over **15+ years of experience** in building and leading technology solutions.  
+I specialize in **React.js, Next.js, ASP.NET**, cloud technologies, and full-stack development.  
 
-What I'm working on
+I love solving complex challenges, mentoring teams, and continuously exploring new technologies.  
 
-🚀 Developing scalable web applications using React.js, Next.js, and ASP.NET
-📚 Exploring Cloud technologies (Azure & AWS), DevOps, and full-stack optimization
+---
 
-What I'm looking to achieve
+## What I'm Working On
+- 🚀 Developing scalable web applications with **React.js, Next.js, ASP.NET**  
+- 📚 Exploring **Cloud technologies (Azure & AWS), DevOps, and full-stack optimization**  
 
-💡 Embrace new challenges and opportunities to solve complex problems
-🤝 Contribute to the tech community through mentorship, open-source, and knowledge sharing
+---
 
-How to reach me
+## What I'm Looking to Achieve
+- 💡 Embrace new challenges and opportunities to solve complex problems  
+- 🤝 Contribute to the tech community through mentorship, open-source, and knowledge sharing  
 
-✉️ Email: sunil802802@gmail.com
+---
 
-💼 LinkedIn: linkedin.com/in/sunil-kumar-singh-041528a
+## Fun Fact
+I find inspiration in nature—whether wandering forests, exploring mountains, or relaxing by the ocean. 🌊🏞️  
 
-Fun fact
+---
 
-I find inspiration and balance in nature—whether wandering forests, exploring mountains, or relaxing by the ocean. 🌊🏞️
+## Domains
+- Full-Stack Development  
+- Software Architecture  
+- Project & Team Leadership  
+- API Design & Integration  
 
-Domains
+---
 
-Full-Stack Development
+## Tech Stack
 
-Software Architecture
+**Frontend & Backend:**  
+React.js ⚛️ | Next.js 🖥️ | Node.js | ASP.NET C#  
 
-Project & Team Leadership
+**Cloud & DevOps:**  
+Azure ☁️ | AWS ☁️ | Docker 🐳 | Jenkins 🔨 | GitHub Actions 🚀  
 
-API Design & Integration
+**Database & Monitoring:**  
+MS SQL | PostgreSQL   
 
-Tech Stack
+**Other Tools:**  
+Ant Design | Redux | Jira 🐉  
 
-Frontend & Backend:
-React.js ⚛️, Next.js 🖥️, Node.js, ASP.NET C#
+---
 
-Cloud & DevOps:
-Azure ☁️, AWS ☁️, Docker 🐳, Jenkins 🔨, GitHub Actions 🚀
+## Connect with Me
+- ✉️ Email: sunil802802@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/sunil-kumar-singh-041528a](https://www.linkedin.com/in/sunil-kumar-singh-041528a)  
 
-Database & Monitoring:
-MS SQL, PostgreSQL
-
-Other Tools:
-Ant Design, Redux, Linux 🐧, Jira 🐉
+---
 
