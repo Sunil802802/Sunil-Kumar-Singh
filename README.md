@@ -1,5 +1,3 @@
-# Hi there, I'm Sunil Kumar Singh 👋
-
 ## Senior Full-Stack Developer | Next.js | React.js | ASP.NET Core | PostgreSQL
 
 📍 India | 💼 15+ Years of Experience
